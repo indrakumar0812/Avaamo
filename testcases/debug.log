@@ -1,0 +1,16 @@
+[0805/165913.795:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0805/165913.796:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0805/165913.812:ERROR:exception_snapshot_win.cc(98)] thread ID 3504 not found in process
+[0805/165913.860:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0805/165913.860:ERROR:exception_snapshot_win.cc(98)] thread ID 4540 not found in process
+[0805/165913.902:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0805/165913.903:ERROR:exception_snapshot_win.cc(98)] thread ID 2244 not found in process
+[0805/165919.715:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0805/165919.715:ERROR:exception_snapshot_win.cc(98)] thread ID 9732 not found in process
+[0806/090610.784:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0806/090610.948:ERROR:exception_snapshot_win.cc(98)] thread ID 2324 not found in process
+[0806/092501.483:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0806/092501.544:ERROR:exception_snapshot_win.cc(98)] thread ID 1500 not found in process
+[0806/092501.584:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0806/092501.584:ERROR:exception_snapshot_win.cc(98)] thread ID 10952 not found in process
+[0806/102711.151:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
