@@ -1,5 +1,7 @@
 from selenium.webdriver.common.by import By
 
+#Pop-up page locators
+
 class Popup:
 
     def __init__(self,driver):

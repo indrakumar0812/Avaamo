@@ -242,8 +242,8 @@ function filter_table(elem) {
     not_found_message.hidden = !all_rows_hidden;
 }
 </script>
-    <h1>alltest.html</h1>
-    <p>Report generated on 06-Aug-2020 at 10:33:48 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.1.1</p>
+    <h1>test.html</h1>
+    <p>Report generated on 08-Aug-2020 at 13:33:47 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v2.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -259,7 +259,7 @@ function filter_table(elem) {
         <td>Python</td>
         <td>3.8.3</td></tr></table>
     <h2>Summary</h2>
-    <p>4 tests ran in 74.08 seconds. </p>
+    <p>4 tests ran in 106.65 seconds. </p>
     <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="passed">4 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filter_table(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
@@ -274,36 +274,48 @@ function filter_table(elem) {
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">test_tc1.py::TestScreen::test_tc1[Hello]</td>
-          <td class="col-duration">9.75</td>
+          <td class="col-name">testcases/test_tc1.py::TestScreen::test_tc1[Hello]</td>
+          <td class="col-duration">11.50</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[32mINFO    [0m setup:conftest.py:43 Webpage loaded successfully<br/> -------------------------------Captured log call-------------------------------- <br/>[32mINFO    [0m test_tc1:test_tc1.py:30 Hello and welcome to IRA agent
+[32mINFO    [0m test_tc1:test_tc1.py:72 Hi there, what can I help you with today?
+[32mINFO    [0m test_tc1:test_tc1.py:74 Test passed<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">test_tc2.py::TestPolicyScreen::test_tc2[getData0]</td>
-          <td class="col-duration">10.68</td>
+          <td class="col-name">testcases/test_tc2.py::TestPolicyScreen::test_tc2[getData0]</td>
+          <td class="col-duration">17.31</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[32mINFO    [0m setup:conftest.py:43 Webpage loaded successfully<br/> -------------------------------Captured log call-------------------------------- <br/>[32mINFO    [0m test_tc2:test_tc2.py:69 M0012345
+[32mINFO    [0m test_tc2:test_tc2.py:71 HR21AB1010
+[32mINFO    [0m test_tc2:test_tc2.py:73 9857689500
+[32mINFO    [0m test_tc2:test_tc2.py:87 Test passed<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">test_tc3.py::TestUserForm::test_tc3[getData0]</td>
-          <td class="col-duration">8.87</td>
+          <td class="col-name">testcases/test_tc3.py::TestUserForm::test_tc3[getData0]</td>
+          <td class="col-duration">12.15</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[32mINFO    [0m setup:conftest.py:43 Webpage loaded successfully<br/> -------------------------------Captured log call-------------------------------- <br/>[32mINFO    [0m test_tc3:test_tc3.py:57 form page is displayed
+[32mINFO    [0m test_tc3:test_tc3.py:64 Female
+[32mINFO    [0m test_tc3:test_tc3.py:71 selecting option
+[32mINFO    [0m test_tc3:test_tc3.py:74 Rarely
+[32mINFO    [0m test_tc3:test_tc3.py:78 selecting ratings
+[32mINFO    [0m test_tc3:test_tc3.py:82 3
+[32mINFO    [0m test_tc3:test_tc3.py:95 Test Passed<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">test_tc4.py::TestPopup::test_tc4[Test New]</td>
-          <td class="col-duration">10.21</td>
+          <td class="col-name">testcases/test_tc4.py::TestPopup::test_tc4[Test New]</td>
+          <td class="col-duration">10.90</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody></table></body></html>
+            <div class="log"> -------------------------------Captured log setup------------------------------- <br/>[32mINFO    [0m setup:conftest.py:43 Webpage loaded successfully<br/> -------------------------------Captured log call-------------------------------- <br/>[32mINFO    [0m test_tc4:test_tc4.py:33 Test New
+[32mINFO    [0m test_tc4:test_tc4.py:85 Test passed<br/></div></td></tr></tbody></table></body></html>

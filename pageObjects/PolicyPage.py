@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 
+#Policy Page locators
 
 class PolicyPage:
 

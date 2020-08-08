@@ -8,3 +8,375 @@
 2020-08-06 11:11:26,129 :INFO : test_tc2 :M0012345
 2020-08-06 11:11:30,127 :INFO : test_tc2 :HR21AB1010
 2020-08-06 11:11:30,313 :INFO : test_tc2 :9857689500
+2020-08-07 20:58:17,133 :INFO : setup :Webpage loaded successfully
+2020-08-07 20:58:19,566 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 20:58:28,484 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 21:01:19,608 :INFO : setup :Webpage loaded successfully
+2020-08-07 21:08:54,570 :INFO : setup :Webpage loaded successfully
+2020-08-07 21:17:40,653 :INFO : setup :Webpage loaded successfully
+2020-08-07 21:20:34,101 :INFO : setup :Webpage loaded successfully
+2020-08-07 21:43:05,731 :INFO : setup :Webpage loaded successfully
+2020-08-07 21:45:45,555 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:01:06,226 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:01:11,075 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:01:21,398 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:11:54,527 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:11:57,200 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:12:07,187 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:16:23,150 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:16:25,843 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:16:35,694 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:18:01,068 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:19:00,717 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:19:03,490 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:19:13,152 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:21:40,941 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:21:43,668 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:21:52,841 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:23:07,338 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:23:10,050 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:23:19,525 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:24:50,539 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:24:53,338 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:25:02,839 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:27:54,565 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:27:57,632 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:28:08,508 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:31:14,629 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:31:18,525 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:31:28,331 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:32:09,806 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:32:12,441 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:32:21,678 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:34:55,468 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:34:59,169 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:35:10,356 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:36:28,349 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:36:31,909 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:36:43,071 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:37:25,580 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:37:28,274 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:37:37,873 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:40:48,791 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:40:52,506 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:41:05,060 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:41:58,609 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:42:01,633 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:42:11,067 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:47:21,256 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:47:26,056 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:47:37,886 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:50:53,752 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:50:57,087 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:51:06,373 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:53:06,042 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:53:09,470 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:53:19,986 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 22:55:50,421 :INFO : setup :Webpage loaded successfully
+2020-08-07 22:55:53,570 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 22:56:02,990 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 23:17:26,642 :INFO : setup :Webpage loaded successfully
+2020-08-07 23:17:30,119 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 23:17:40,536 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 23:30:03,407 :INFO : setup :Webpage loaded successfully
+2020-08-07 23:30:07,480 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 23:30:16,660 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 23:32:11,749 :INFO : setup :Webpage loaded successfully
+2020-08-07 23:32:15,299 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 23:32:25,356 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 23:34:23,324 :INFO : setup :Webpage loaded successfully
+2020-08-07 23:34:26,976 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 23:34:36,585 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-07 23:38:05,120 :INFO : setup :Webpage loaded successfully
+2020-08-07 23:38:07,958 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-07 23:38:16,951 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-08 00:36:14,906 :INFO : setup :Webpage loaded successfully
+2020-08-08 00:36:17,576 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-08 00:36:27,600 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-08 01:56:35,359 :INFO : setup :Webpage loaded successfully
+2020-08-08 01:56:46,647 :INFO : test_tc2 :M0012345
+2020-08-08 01:58:31,434 :INFO : setup :Webpage loaded successfully
+2020-08-08 01:58:41,835 :INFO : test_tc2 :M0012345
+2020-08-08 02:12:17,868 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:12:28,978 :INFO : test_tc2 :M0012345
+2020-08-08 02:15:47,609 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:15:57,863 :INFO : test_tc2 :M0012345
+2020-08-08 02:18:02,877 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:18:14,582 :INFO : test_tc2 :M0012345
+2020-08-08 02:23:23,313 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:23:33,442 :INFO : test_tc2 :M0012345
+2020-08-08 02:25:18,310 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:25:28,891 :INFO : test_tc2 :M0012345
+2020-08-08 02:27:01,041 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:27:11,724 :INFO : test_tc2 :M0012345
+2020-08-08 02:29:42,738 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:30:03,101 :INFO : test_tc2 :M0012345
+2020-08-08 02:30:59,286 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:31:15,217 :INFO : test_tc2 :M0012345
+2020-08-08 02:34:03,480 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:34:19,458 :INFO : test_tc2 :M0012345
+2020-08-08 02:35:18,848 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:35:44,079 :INFO : test_tc2 :M0012345
+2020-08-08 02:38:59,567 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:39:14,305 :INFO : test_tc2 :M0012345
+2020-08-08 02:45:48,594 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:46:03,995 :INFO : test_tc2 :M0012345
+2020-08-08 02:49:00,333 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:49:14,913 :INFO : test_tc2 :M0012345
+2020-08-08 02:52:03,019 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:52:23,075 :INFO : test_tc2 :M0012345
+2020-08-08 02:54:36,426 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:56:36,433 :INFO : test_tc2 :M0012345
+2020-08-08 02:58:09,000 :INFO : setup :Webpage loaded successfully
+2020-08-08 02:59:58,929 :INFO : test_tc2 :M0012345
+2020-08-08 03:02:27,368 :INFO : setup :Webpage loaded successfully
+2020-08-08 03:04:17,722 :INFO : test_tc2 :M0012345
+2020-08-08 03:07:50,547 :INFO : setup :Webpage loaded successfully
+2020-08-08 03:08:00,895 :INFO : test_tc2 :M0012345
+2020-08-08 03:09:59,306 :INFO : setup :Webpage loaded successfully
+2020-08-08 03:10:08,840 :INFO : test_tc2 :M0012345
+2020-08-08 03:10:11,845 :INFO : test_tc2 :HR21AB1010
+2020-08-08 03:10:12,010 :INFO : test_tc2 :9857689500
+2020-08-08 03:11:12,151 :INFO : setup :Webpage loaded successfully
+2020-08-08 03:11:22,832 :INFO : test_tc2 :M0012345
+2020-08-08 03:11:26,917 :INFO : test_tc2 :HR21AB1010
+2020-08-08 03:11:27,132 :INFO : test_tc2 :9857689500
+2020-08-08 03:19:00,649 :INFO : setup :Webpage loaded successfully
+2020-08-08 03:20:56,574 :INFO : setup :Webpage loaded successfully
+2020-08-08 03:21:06,829 :INFO : test_tc2 :M0012345
+2020-08-08 03:21:09,633 :INFO : test_tc2 :HR21AB1010
+2020-08-08 03:21:09,839 :INFO : test_tc2 :9857689500
+2020-08-08 03:23:48,179 :INFO : setup :Webpage loaded successfully
+2020-08-08 03:23:58,268 :INFO : test_tc2 :M0012345
+2020-08-08 03:24:01,530 :INFO : test_tc2 :HR21AB1010
+2020-08-08 03:24:01,682 :INFO : test_tc2 :9857689500
+2020-08-08 03:25:58,676 :INFO : setup :Webpage loaded successfully
+2020-08-08 03:26:08,833 :INFO : test_tc2 :M0012345
+2020-08-08 03:26:11,288 :INFO : test_tc2 :HR21AB1010
+2020-08-08 03:26:11,449 :INFO : test_tc2 :9857689500
+2020-08-08 07:04:38,315 :INFO : setup :Webpage loaded successfully
+2020-08-08 07:04:57,318 :INFO : test_tc2 :M0012345
+2020-08-08 07:05:15,136 :INFO : test_tc2 :HR21AB1010
+2020-08-08 07:05:15,293 :INFO : test_tc2 :9857689500
+2020-08-08 07:07:14,378 :INFO : setup :Webpage loaded successfully
+2020-08-08 07:07:28,131 :INFO : test_tc2 :M0012345
+2020-08-08 07:07:33,039 :INFO : test_tc2 :HR21AB1010
+2020-08-08 07:07:34,423 :INFO : test_tc2 :9857689500
+2020-08-08 07:11:37,803 :INFO : setup :Webpage loaded successfully
+2020-08-08 07:11:47,946 :INFO : test_tc2 :M0012345
+2020-08-08 07:11:51,635 :INFO : test_tc2 :HR21AB1010
+2020-08-08 07:11:51,795 :INFO : test_tc2 :9857689500
+2020-08-08 07:12:46,874 :INFO : setup :Webpage loaded successfully
+2020-08-08 07:12:56,563 :INFO : test_tc2 :M0012345
+2020-08-08 07:13:00,355 :INFO : test_tc2 :HR21AB1010
+2020-08-08 07:13:00,552 :INFO : test_tc2 :9857689500
+2020-08-08 07:13:38,734 :INFO : setup :Webpage loaded successfully
+2020-08-08 07:13:48,167 :INFO : test_tc2 :M0012345
+2020-08-08 07:13:51,194 :INFO : test_tc2 :HR21AB1010
+2020-08-08 07:13:51,349 :INFO : test_tc2 :9857689500
+2020-08-08 07:14:26,258 :INFO : setup :Webpage loaded successfully
+2020-08-08 07:14:35,629 :INFO : test_tc2 :M0012345
+2020-08-08 07:14:39,294 :INFO : test_tc2 :HR21AB1010
+2020-08-08 07:14:39,446 :INFO : test_tc2 :9857689500
+2020-08-08 10:18:28,203 :INFO : setup :Webpage loaded successfully
+2020-08-08 10:18:46,888 :INFO : test_tc3 :form page is displayed successfully
+2020-08-08 10:18:46,912 :INFO : test_tc3 :form page is displayed
+2020-08-08 10:22:24,769 :INFO : setup :Webpage loaded successfully
+2020-08-08 10:22:38,047 :INFO : test_tc3 :form page is displayed successfully
+2020-08-08 10:22:38,103 :INFO : test_tc3 :form page is displayed
+2020-08-08 10:29:37,187 :INFO : setup :Webpage loaded successfully
+2020-08-08 10:29:51,243 :INFO : test_tc3 :form page is displayed successfully
+2020-08-08 10:29:51,265 :INFO : test_tc3 :form page is displayed
+2020-08-08 10:29:51,583 :INFO : test_tc3 :Male
+2020-08-08 10:35:22,109 :INFO : setup :Webpage loaded successfully
+2020-08-08 10:35:33,703 :INFO : test_tc3 :form page is displayed successfully
+2020-08-08 10:35:33,724 :INFO : test_tc3 :form page is displayed
+2020-08-08 10:35:34,021 :INFO : test_tc3 :Male
+2020-08-08 10:42:07,186 :INFO : setup :Webpage loaded successfully
+2020-08-08 10:42:18,612 :INFO : test_tc3 :form page is displayed successfully
+2020-08-08 10:42:18,640 :INFO : test_tc3 :form page is displayed
+2020-08-08 10:42:18,971 :INFO : test_tc3 :Male
+2020-08-08 10:46:37,222 :INFO : setup :Webpage loaded successfully
+2020-08-08 10:46:50,996 :INFO : test_tc3 :form page is displayed
+2020-08-08 10:46:51,297 :INFO : test_tc3 :Male
+2020-08-08 10:46:51,432 :INFO : test_tc3 :selecting options
+2020-08-08 10:48:25,242 :INFO : setup :Webpage loaded successfully
+2020-08-08 10:48:37,177 :INFO : test_tc3 :form page is displayed
+2020-08-08 10:48:37,494 :INFO : test_tc3 :Male
+2020-08-08 10:48:37,619 :INFO : test_tc3 :selecting options
+2020-08-08 10:51:53,665 :INFO : setup :Webpage loaded successfully
+2020-08-08 10:52:05,555 :INFO : test_tc3 :form page is displayed
+2020-08-08 10:52:05,871 :INFO : test_tc3 :Female
+2020-08-08 10:52:05,983 :INFO : test_tc3 :selecting options
+2020-08-08 10:54:57,917 :INFO : setup :Webpage loaded successfully
+2020-08-08 10:55:08,857 :INFO : test_tc3 :form page is displayed
+2020-08-08 10:55:09,179 :INFO : test_tc3 :Female
+2020-08-08 10:55:09,269 :INFO : test_tc3 :selecting options
+2020-08-08 11:00:18,312 :INFO : setup :Webpage loaded successfully
+2020-08-08 11:00:29,377 :INFO : test_tc3 :form page is displayed
+2020-08-08 11:00:29,702 :INFO : test_tc3 :Female
+2020-08-08 11:00:30,288 :INFO : test_tc3 :selecting option
+2020-08-08 11:00:30,310 :INFO : test_tc3 :Very Often
+2020-08-08 11:03:23,403 :INFO : setup :Webpage loaded successfully
+2020-08-08 11:03:35,942 :INFO : test_tc3 :form page is displayed
+2020-08-08 11:03:36,488 :INFO : test_tc3 :Female
+2020-08-08 11:03:37,054 :INFO : test_tc3 :selecting option
+2020-08-08 11:03:37,073 :INFO : test_tc3 :Very Often
+2020-08-08 11:08:28,034 :INFO : setup :Webpage loaded successfully
+2020-08-08 11:08:39,897 :INFO : test_tc3 :form page is displayed
+2020-08-08 11:08:40,266 :INFO : test_tc3 :Female
+2020-08-08 11:08:40,846 :INFO : test_tc3 :selecting option
+2020-08-08 11:08:40,865 :INFO : test_tc3 :Very Often
+2020-08-08 11:10:59,957 :INFO : setup :Webpage loaded successfully
+2020-08-08 11:11:12,433 :INFO : test_tc3 :form page is displayed
+2020-08-08 11:11:12,894 :INFO : test_tc3 :Female
+2020-08-08 11:11:13,474 :INFO : test_tc3 :selecting option
+2020-08-08 11:11:13,493 :INFO : test_tc3 :Very Often
+2020-08-08 11:24:27,963 :INFO : setup :Webpage loaded successfully
+2020-08-08 11:24:41,000 :INFO : test_tc3 :form page is displayed
+2020-08-08 11:24:41,444 :INFO : test_tc3 :Female
+2020-08-08 11:24:42,021 :INFO : test_tc3 :selecting option
+2020-08-08 11:24:42,039 :INFO : test_tc3 :Very Often
+2020-08-08 11:25:51,710 :INFO : setup :Webpage loaded successfully
+2020-08-08 11:26:03,746 :INFO : test_tc3 :form page is displayed
+2020-08-08 11:26:04,144 :INFO : test_tc3 :Female
+2020-08-08 11:26:04,714 :INFO : test_tc3 :selecting option
+2020-08-08 11:26:04,731 :INFO : test_tc3 :Very Often
+2020-08-08 11:34:31,272 :INFO : setup :Webpage loaded successfully
+2020-08-08 11:34:42,414 :INFO : test_tc3 :form page is displayed
+2020-08-08 11:34:42,880 :INFO : test_tc3 :Female
+2020-08-08 11:34:43,487 :INFO : test_tc3 :selecting option
+2020-08-08 11:34:43,526 :INFO : test_tc3 :Rarely
+2020-08-08 11:34:43,642 :INFO : test_tc3 :selecting ratings
+2020-08-08 11:34:43,712 :INFO : test_tc3 :3
+2020-08-08 11:35:52,068 :INFO : setup :Webpage loaded successfully
+2020-08-08 11:36:03,259 :INFO : test_tc3 :form page is displayed
+2020-08-08 11:36:03,610 :INFO : test_tc3 :Female
+2020-08-08 11:36:04,179 :INFO : test_tc3 :selecting option
+2020-08-08 11:36:04,220 :INFO : test_tc3 :Rarely
+2020-08-08 11:36:04,331 :INFO : test_tc3 :selecting ratings
+2020-08-08 11:36:04,405 :INFO : test_tc3 :3
+2020-08-08 11:56:32,212 :INFO : setup :Webpage loaded successfully
+2020-08-08 11:56:43,793 :INFO : test_tc3 :form page is displayed
+2020-08-08 11:56:44,148 :INFO : test_tc3 :Female
+2020-08-08 11:56:44,772 :INFO : test_tc3 :selecting option
+2020-08-08 11:56:44,809 :INFO : test_tc3 :Rarely
+2020-08-08 11:56:44,923 :INFO : test_tc3 :selecting ratings
+2020-08-08 11:56:45,006 :INFO : test_tc3 :3
+2020-08-08 11:56:46,221 :INFO : test_tc3 :form filled successfully
+2020-08-08 12:00:31,098 :INFO : setup :Webpage loaded successfully
+2020-08-08 12:00:42,395 :INFO : test_tc3 :form page is displayed
+2020-08-08 12:00:42,737 :INFO : test_tc3 :Female
+2020-08-08 12:00:43,324 :INFO : test_tc3 :selecting option
+2020-08-08 12:00:43,358 :INFO : test_tc3 :Rarely
+2020-08-08 12:00:43,474 :INFO : test_tc3 :selecting ratings
+2020-08-08 12:00:43,547 :INFO : test_tc3 :3
+2020-08-08 12:00:44,289 :INFO : test_tc3 :form filled successfully
+2020-08-08 12:01:31,610 :INFO : setup :Webpage loaded successfully
+2020-08-08 12:01:43,951 :INFO : test_tc3 :form page is displayed
+2020-08-08 12:01:44,802 :INFO : test_tc3 :Female
+2020-08-08 12:01:45,409 :INFO : test_tc3 :selecting option
+2020-08-08 12:01:45,453 :INFO : test_tc3 :Rarely
+2020-08-08 12:01:45,557 :INFO : test_tc3 :selecting ratings
+2020-08-08 12:01:45,629 :INFO : test_tc3 :3
+2020-08-08 12:01:46,806 :INFO : test_tc3 :form filled successfully
+2020-08-08 12:40:29,721 :INFO : setup :Webpage loaded successfully
+2020-08-08 12:40:40,542 :INFO : test_tc4 :Test New
+2020-08-08 12:40:44,679 :INFO : test_tc4 :Message: no such element: Unable to locate element: {"method":"link text","selector":"Google"}
+  (Session info: chrome=84.0.4147.105)
+
+2020-08-08 12:40:44,716 :INFO : test_tc4 :Test passed
+2020-08-08 12:41:44,261 :INFO : setup :Webpage loaded successfully
+2020-08-08 12:41:53,570 :INFO : test_tc4 :Test New
+2020-08-08 12:41:55,360 :INFO : test_tc4 :'WebElement' object has no attribute 'get_attribut'
+2020-08-08 12:41:55,381 :INFO : test_tc4 :Test passed
+2020-08-08 12:43:30,455 :INFO : setup :Webpage loaded successfully
+2020-08-08 12:43:39,584 :INFO : test_tc4 :Test New
+2020-08-08 12:43:43,315 :INFO : test_tc4 :Test passed
+2020-08-08 13:09:50,554 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:09:53,137 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-08 13:10:04,474 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-08 13:10:04,474 :INFO : test_tc1 :Test passed
+2020-08-08 13:10:25,658 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:10:25,658 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:10:39,431 :INFO : test_tc2 :M0012345
+2020-08-08 13:10:57,093 :INFO : test_tc2 :HR21AB1010
+2020-08-08 13:10:57,254 :INFO : test_tc2 :9857689500
+2020-08-08 13:10:58,122 :INFO : test_tc2 :Test passed
+2020-08-08 13:11:12,943 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:11:12,943 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:11:12,943 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:11:26,602 :INFO : test_tc3 :form page is displayed
+2020-08-08 13:11:26,987 :INFO : test_tc3 :Female
+2020-08-08 13:11:27,561 :INFO : test_tc3 :selecting option
+2020-08-08 13:11:27,599 :INFO : test_tc3 :Rarely
+2020-08-08 13:11:27,711 :INFO : test_tc3 :selecting ratings
+2020-08-08 13:11:27,785 :INFO : test_tc3 :3
+2020-08-08 13:11:28,973 :INFO : test_tc3 :form filled successfully
+2020-08-08 13:11:36,960 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:11:36,960 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:11:36,960 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:11:36,960 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:11:46,599 :INFO : test_tc4 :Test New
+2020-08-08 13:14:42,253 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:14:57,287 :INFO : test_tc3 :form page is displayed
+2020-08-08 13:14:57,753 :INFO : test_tc3 :Female
+2020-08-08 13:14:58,331 :INFO : test_tc3 :selecting option
+2020-08-08 13:14:58,367 :INFO : test_tc3 :Rarely
+2020-08-08 13:14:58,481 :INFO : test_tc3 :selecting ratings
+2020-08-08 13:14:58,553 :INFO : test_tc3 :3
+2020-08-08 13:14:59,249 :INFO : test_tc3 :form filled successfully
+2020-08-08 13:16:46,222 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:16:48,514 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-08 13:16:58,329 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-08 13:16:58,329 :INFO : test_tc1 :Test passed
+2020-08-08 13:17:08,732 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:17:08,732 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:17:18,986 :INFO : test_tc2 :M0012345
+2020-08-08 13:17:24,792 :INFO : test_tc2 :HR21AB1010
+2020-08-08 13:17:25,631 :INFO : test_tc2 :9857689500
+2020-08-08 13:17:26,109 :INFO : test_tc2 :Test passed
+2020-08-08 13:17:42,002 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:17:42,002 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:17:42,002 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:17:52,454 :INFO : test_tc3 :form page is displayed
+2020-08-08 13:17:52,828 :INFO : test_tc3 :Female
+2020-08-08 13:17:53,393 :INFO : test_tc3 :selecting option
+2020-08-08 13:17:53,427 :INFO : test_tc3 :Rarely
+2020-08-08 13:17:53,571 :INFO : test_tc3 :selecting ratings
+2020-08-08 13:17:53,642 :INFO : test_tc3 :3
+2020-08-08 13:17:54,463 :INFO : test_tc3 :Test Passed
+2020-08-08 13:18:02,210 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:18:02,210 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:18:02,210 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:18:02,210 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:18:11,770 :INFO : test_tc4 :Test New
+2020-08-08 13:19:21,646 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:19:30,330 :INFO : test_tc4 :Test New
+2020-08-08 13:19:34,450 :INFO : test_tc4 :Test passed
+2020-08-08 13:32:13,733 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:32:16,249 :INFO : test_tc1 :Hello and welcome to IRA agent
+2020-08-08 13:32:27,646 :INFO : test_tc1 :Hi there, what can I help you with today?
+2020-08-08 13:32:27,646 :INFO : test_tc1 :Test passed
+2020-08-08 13:32:39,583 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:32:39,583 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:32:51,814 :INFO : test_tc2 :M0012345
+2020-08-08 13:32:57,725 :INFO : test_tc2 :HR21AB1010
+2020-08-08 13:32:58,045 :INFO : test_tc2 :9857689500
+2020-08-08 13:32:59,251 :INFO : test_tc2 :Test passed
+2020-08-08 13:33:12,270 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:33:12,270 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:33:12,270 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:33:24,391 :INFO : test_tc3 :form page is displayed
+2020-08-08 13:33:24,840 :INFO : test_tc3 :Female
+2020-08-08 13:33:25,463 :INFO : test_tc3 :selecting option
+2020-08-08 13:33:25,510 :INFO : test_tc3 :Rarely
+2020-08-08 13:33:25,611 :INFO : test_tc3 :selecting ratings
+2020-08-08 13:33:25,691 :INFO : test_tc3 :3
+2020-08-08 13:33:26,564 :INFO : test_tc3 :Test Passed
+2020-08-08 13:33:34,175 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:33:34,175 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:33:34,175 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:33:34,175 :INFO : setup :Webpage loaded successfully
+2020-08-08 13:33:42,995 :INFO : test_tc4 :Test New
+2020-08-08 13:33:47,400 :INFO : test_tc4 :Test passed

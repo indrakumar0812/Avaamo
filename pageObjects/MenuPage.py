@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 
+#Menu page locators
 
 class MenuPage:
 
